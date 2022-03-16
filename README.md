@@ -7,8 +7,11 @@ ___________________
 6.40 MW BUNDLED WIND ENERGY PROJECT BY PRASAD GROUP
 ______________________
 https://cdm.unfccc.int/Projects/DB/SGS-UKL1187092432.51/view
+_____________
 Three WTGs have claimed carbon credits under CDM (CDM ID# 1291)
+___________________
 Last CDM Monitoring Period under CDM is : 01 Jan 2018 - 17 Mar 2020 
+_____________________
 The 3 WTGs will claim carbon credits under UCR beginnig 01/04/2020 as per PCN
 _________________________________
 UCR Status:
